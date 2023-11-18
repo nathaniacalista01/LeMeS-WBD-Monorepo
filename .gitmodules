@@ -1,3 +1,12 @@
 [submodule "LeMeS-WBD-PHPv2"]
 	path = LeMeS-WBD-PHPv2
 	url = https://github.com/nathaniacalista01/LeMeS-WBD-PHPv2.git
+[submodule "LeMeS-WBD-React"]
+	path = LeMeS-WBD-React
+	url = https://github.com/nathaniacalista01/LeMeS-WBD-React.git
+[submodule "LeMeS-WBD-REST"]
+	path = LeMeS-WBD-REST
+	url = https://github.com/nathaniacalista01/LeMeS-WBD-REST.git
+[submodule "LeMeS-WBD-SOAP"]
+	path = LeMeS-WBD-SOAP
+	url = https://github.com/nathaniacalista01/LeMeS-WBD-SOAP.git
